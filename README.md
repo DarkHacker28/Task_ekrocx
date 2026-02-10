@@ -1,13 +1,9 @@
-Run Project Locally
-Start Backend
-cd server
-npm run dev
+MilesWeb Clone – Full Stack Project Documentation
 
+Tech Stack: 
 
-Start Frontend
-cd client
-npm run dev
+React.js + Tailwind CSS + Framer Motion (Frontend) 
 
+Node.js + Express (Backend) 
 
-
-
+MongoDB (Database)
